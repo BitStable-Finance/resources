@@ -1,2 +1,2 @@
 # resources
-static resources
+Storage of media resources
